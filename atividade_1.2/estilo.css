@@ -1,0 +1,19 @@
+*{
+    box-sizing: border-box;
+}
+
+#caixa_com_box_model_01{
+
+    width: 300px;
+    padding: 20px;
+    border-width: 2px;
+    border:solid;
+    border-color: #F5F5DC;
+    margin: 5px;
+    background-color:#BF1F1F;
+    font-family: Verdana;
+    font-size: 12px;
+    background-position: left;
+    font-size:  #4b0082; 
+
+}

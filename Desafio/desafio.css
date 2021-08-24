@@ -1,0 +1,49 @@
+*{
+    box-sizing: border-box;
+}
+.div1{
+    width: 500px;
+    height: 200px;
+    background-color: gray;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+.div2{
+    background-color: red;
+    width: 200px;
+    height: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.div3{
+    background-color: blue;
+    width: 200px;
+    height: 20%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.div4{
+    background-color: chartreuse;
+    width: 250px;
+    height: 200px;
+    margin-left:30%;
+    margin-top: 20px;
+    margin-bottom: 2%;
+    
+}
+.div5{
+    background-color: darkblue;
+    width: 200px;
+    height: 150px;
+    margin-left: 54%;
+    position: absolute;
+    transform: translatey(-175px);
+
+    
+}
+.div6{
+    background-color:peru;
+    width: 1500px;
+    height: 100px;
+}

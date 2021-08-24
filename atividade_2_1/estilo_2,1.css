@@ -1,0 +1,29 @@
+*{
+        box-sizing: border-box;
+}
+body{
+    display:flex;
+    text-align: center;
+}
+#c{
+    background-color: rgb(23, 24, 24);
+    background-position: left;
+    color: white;
+    width: 420px;
+    height: 310px;
+}   
+#o{
+    background-color:green;
+    background-position: center;
+    color: white;
+    width: 420px;
+    height: 310px;
+}
+    
+#l{
+    background-color:gray;
+    background-position: right;
+    color:white;
+    width: 420px;
+    height: 310px;
+}
